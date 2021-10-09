@@ -1,6 +1,6 @@
 # shop_app
 
-A new Flutter project.
+A Flutter UI Project based on the UI Design from dribble (https://dribbble.com/shots/15507510-Fashion-Store-Mobile-App)
 
 ## Getting Started
 
