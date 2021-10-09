@@ -11,9 +11,9 @@ https://dribbble.com/shots/15507510-Fashion-Store-Mobile-App
     <img src="https://user-images.githubusercontent.com/71022967/136671687-0f2737bb-b634-4da0-8e0e-1fc10829771f.png" width="200" height="400" />
 </p>
 
-## Flutter & Firebase
+## Flutter & Firebase & Clean Architecture 
 
-This project is integrated with firebase.
+This project is integrated with firebase with clean architecture design pattern
 
 ## Features 
 - Add Product
